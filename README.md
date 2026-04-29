@@ -20,7 +20,7 @@ Orchestration  Apache Airflow
 
 ## 📌 Current project
 
-### [Steam Games Analytics Pipeline](TBA)
+### [Steam Games Analytics Pipeline](https://github.com/kiayria/steamscope)
 A personal project built to mirror my professional stack on public data.
 
 Pulls data from the Steam API (games, player counts, reviews, pricing history) and processes it through a medallion architecture:
