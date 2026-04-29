@@ -41,7 +41,6 @@ Orchestrated with Airflow on a daily schedule. Answers questions like:
 - Based in **Aktobe, Kazakhstan** · open to remote opportunities
 - Led the build-out of a LATAM data warehouse from scratch in Argentina — now expanded to 6 countries, supporting 200+ users
 - Resource Manager for a unit of 5 Data Engineers at EPAM
-- Upcoming speaker at **House of Data** (2026)
 - Working toward **Databricks certification**
 
 ---
